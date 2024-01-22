@@ -38,6 +38,7 @@ Approach:
 
 ![image](https://github.com/Alex-Zeng-UofT/CSCC01/assets/114100209/62994c8b-2690-4e55-a921-37baa940f9a5)
 
+![image](https://github.com/Alex-Zeng-UofT/CSCC01/assets/114100209/adf03b0f-dae0-492c-92c3-caf851c34baf)
 
 Advantages:
 - reasonably intuitive
@@ -46,3 +47,22 @@ Advantages:
 Disadvantages:
 - captures a static picture
 - can regress forever up or down the goal hierarchy
+
+**Soft Goals**: subjective and vauge goals that may be hard to objectively assess and strategize. Soft goals can be used as Selection Criteria at a higher level.
+
+![image](https://github.com/Alex-Zeng-UofT/CSCC01/assets/114100209/89d27d51-f807-48b9-b5c5-e2f8b54e5304)
+
+#From Requirements to Design#
+
+1. Identify the problem
+  - Identifying actors
+    - Primary actors: daily users/customers
+    - Secondary actors: IT guy
+  - Use personas
+    - Detailed description of user characteristics, goals, and preferences
+    - Enhances UCD and UX while facilitating communication with development team
+2. Scope the problem
+3. Identify solution scenarios
+4. Map onto the architecture
+
+
