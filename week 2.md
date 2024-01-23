@@ -61,8 +61,13 @@ Disadvantages:
   - Use personas
     - Detailed description of user characteristics, goals, and preferences
     - Enhances UCD and UX while facilitating communication with development team
+    
+
 2. Scope the problem
+- ![image](https://github.com/Alex-Zeng-UofT/CSCC01/assets/114100209/3f2dc92b-69cd-4cab-9eb9-db72348e4e8c)
+
 3. Identify solution scenarios
+ - ![image](https://github.com/Alex-Zeng-UofT/CSCC01/assets/114100209/8cf87fc3-1deb-4ead-b0a0-372157336fea)
 4. Map onto the architecture
 
 
