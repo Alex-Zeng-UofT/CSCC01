@@ -52,7 +52,7 @@ Disadvantages:
 
 ![image](https://github.com/Alex-Zeng-UofT/CSCC01/assets/114100209/89d27d51-f807-48b9-b5c5-e2f8b54e5304)
 
-#From Requirements to Design#
+##From Requirements to Design
 
 1. Identify the problem
   - Identifying actors
