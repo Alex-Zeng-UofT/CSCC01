@@ -22,4 +22,18 @@ Based on desired attributes:
 - Reusability
 - Performance
 
+## Layered Pattern
+
+Software is divided into layers
+- Each layer is a grouping of modules that offers a cohesive set of services
+- Every piece of software is allocated to exactly one layer
+- Closed architecture: only next=lower-layer uses are allowed
+- Open architecture: a layer can use services from any lower layer
+
+Promotes modifiability and reusablility
+
+Challenges:
+- Up front cost and complexity
+- 
+
   
