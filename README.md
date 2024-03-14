@@ -7,3 +7,4 @@ Notes provided by Rawad Abou Assi and taken by Alex Zeng
 Find Coursework here:
 - **Lab 1:** https://github.com/Alex-Zeng-UofT/C01Lab1
 - **Lab 2:** https://github.com/Alex-Zeng-UofT/C01Lab2
+- **Lab 3:** https://github.com/Alex-Zeng-UofT/C01Lab3
